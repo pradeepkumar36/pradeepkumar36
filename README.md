@@ -38,12 +38,3 @@ I specialize in uncovering patterns, delivering actionable insights, and communi
 
 ## 📊 Projects Showcase
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" width="60"/><br/>
-      <b>Excel Dashboard</b><br/>
-      Sales performance with slicers & pivot charts
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/96/000000/pow
