@@ -17,12 +17,11 @@ I specialize in uncovering patterns, delivering actionable insights, and communi
 
 ## 🛠️ Technical Skills
 
-| 💾 Databases | 📊 Data Visualization | 🐍 Programming | 📈 Tools |  Others
-|-------------|-------------------------|-----------------|----------|--------------
-| MySQL       |        Power BI         |      Python     |   Excel  | Statistics &
-|             |                         | (Pandas, NumPy) |          |  Generative AI  
-|             |                         |                 |          |
-
+| 💾 Databases | 📊 Data Visualization | 📈 Tools |  Others
+|-------------|-------------------------|-----------------------------
+| MySQL       |        Power BI         |   Excel  | Basic Statistics &
+|             |                         |          |  
+|             |                         |          |    
 ---
 
 ## 💡 Soft Skills
