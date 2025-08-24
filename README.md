@@ -1,4 +1,4 @@
-
+ 
 
 <h1 align="center"> 👋 Hi there, I'm a Pradeep Kumar 👋<span style="color:#007acc;"> - Data Analyst</span> </h1>
 
@@ -17,11 +17,10 @@ I specialize in uncovering patterns, delivering actionable insights, and communi
 
 ## 🛠️ Technical Skills
 
-| 💾 Databases | 📊 Data Visualization | 📈 Tools |  Others
+| 💾 Databases | 📊 Data Visualization | 📈 Tools   |  Others
 |-------------|-------------------------|-----------------------------
-| MySQL       |        Power BI         |   Excel  | Basic Statistics &
-|             |                         |          |  
-|             |                         |          |    
+| MySQL       |        Power BI         |   Excel    | Basic Statistics &
+|    
 ---
 
 ## 💡 Soft Skills
